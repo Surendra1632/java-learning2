@@ -1,3 +1,4 @@
+//linearSearch
 import java.util.Scanner;
 public class array6 {
     public static int linearSearch(int numbers[],int key){
